@@ -156,7 +156,7 @@ const Dashboard: React.FC = () => {
   const studentsData: Student[] = [
     { name: 'Sarah Johnson', email: 'sarah.j@email.com', course: 'Full Stack Development', progress: 78, status: 'Active' },
     { name: 'Enrique Solis', email: 'mike.chen@email.com', course: 'Data Analytics', progress: 92, status: 'Active' },
-    { name: 'Emily Davis', email: 'emily.d@email.com', course: 'UI/UX Design', progress: 65, status: 'Active' },
+    { name: 'Emily Davis', email: 'aaaaad@email.com', course: 'UI/UX Design', progress: 65, status: 'Active' },
     { name: 'John Smith', email: 'john.smith@email.com', course: 'Cybersecurity', progress: 45, status: 'Active' },
     { name: 'Lisa Wang', email: 'lisa.wang@email.com', course: 'Cloud Computing', progress: 89, status: 'Completed' },
   ];
