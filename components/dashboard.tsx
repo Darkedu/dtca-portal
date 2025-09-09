@@ -213,7 +213,7 @@ const Dashboard: React.FC = () => {
                 </div>
                 <div className="text-right">
                   <p className="text-sm font-medium text-gray-900 dark:text-white">Eduardo Cosme</p>
-                  <p className="text-xs text-gray-500 dark:text-gray-400">Administrator</p>
+                  <p className="text-xs text-gray-500 dark:text-gray-400">Program Administrator</p>
                 </div>
               </div>
             </div>
